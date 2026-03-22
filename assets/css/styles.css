@@ -1047,7 +1047,8 @@ button {
 }
 
 .review-item__quote {
-  width: 553px;
+  max-width: 553px;
+  width: 100%;
   margin-top: 24px;
   font-size: 1.8rem;
   line-height: 1.56;
